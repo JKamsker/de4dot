@@ -198,6 +198,8 @@ To change the regex(es), you must know the short type name of the obfuscator (se
 
     de4dot --un-name "^[a-zA-Z]\w*$" file1.dll
 
+ 
+
 Other options
 -------------
 
